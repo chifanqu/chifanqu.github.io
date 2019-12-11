@@ -1,6 +1,7 @@
 .DS_Store
 */.DS_Store
-
 node_modules
-
 _site
+update.bat
+jekyll server.bat
+_post/a
