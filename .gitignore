@@ -4,4 +4,5 @@ node_modules
 _site
 update.bat
 jekyll server.bat
-_post/a
+_posts/a/
+_posts/2019-12-11-demo.md
